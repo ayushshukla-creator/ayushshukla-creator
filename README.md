@@ -1,16 +1,66 @@
-## Hi there 👋
+Hi 👋, I'm Ayush Shukla
 
-<!--
-**ayushshukla-creator/ayushshukla-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Engineering Student
+💻 Competitive Programmer | DSA Enthusiast
+🚀 Aspiring Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🌱 Currently focused on Data Structures & Algorithms
+- 💡 Selected member of Competitive Programming Team (GFG Chapter)
+- 🧠 Regular participant in LeetCode & Codeforces contests
+- 📈 Passionate about improving problem-solving skills daily
+- 🎯 Goal: Become industry-ready with strong DSA + Development skills
+
+---
+
+🛠️ Tech Stack
+
+Languages:
+C++ | Python (Learning)
+
+Core Skills:
+Data Structures
+Algorithms
+Problem Solving
+Competitive Programming
+
+Upcoming:
+Full Stack Development
+AI/ML Foundations
+
+---
+
+📊 Competitive Programming
+
+- 🔥 Regular Contest Participant
+- 🧩 Solving problems on LeetCode & Codeforces
+- 📈 Continuously improving rating and consistency
+
+---
+
+📂 Projects (Coming Soon 🚀)
+
+- Personal Portfolio Website
+- Full Stack Development Projects
+- Algorithm-based Mini Projects
+
+---
+
+📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ayush-shukla-1b0a62379/
+- 🧑‍💻 GitHub: https://github.com/ayushshukla-creator/ayushshukla-creator
+- 📧 Email: ayushshukla8141@gmail.com
+
+---
+
+⚡ Motto
+
+«“Skills over ratings. Consistency over motivation.”»
+
+---
+
+⭐️ From Ayush Shukla
